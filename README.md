@@ -42,7 +42,7 @@ python experiment.py ATIS 25
 
 
 
-## Cite
+## Citation
 If you mentioned the method in your research, please cite this article:
 ```
 @inproceedings{lin-xu-2019-deep,
